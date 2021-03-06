@@ -1,0 +1,42 @@
+.history {
+    width: 460px;
+    margin: 0 auto;
+    box-shadow: var(--box-shadow);
+    background-color: var(--primary-background-color);
+    cursor    : pointer;
+  }
+  
+  .history:hover,
+  .history:focus {
+    cursor    : pointer;
+    transition: color var(--animation-duration) var(--animation-timing-function);
+    /* transform : scale(1.1); */
+  }
+  
+  .title{
+      padding: 10px;
+      background-color: #00bcd5;
+      color:  var(--primary-background-color);
+      text-transform: uppercase;
+  }
+  .item{
+      width: 200px;
+      padding: 10px 0;
+      text-align: center;
+      border: 1px solid  var(--border-color);
+  }
+  .item:first-letter {
+    text-transform: uppercase;
+  } 
+  .row {
+      background: var(--primary-background-color);
+    }
+  .row:nth-child(2n) {
+    background: #f0f4fd;
+  }
+  .row:hover,
+  .row:focus {
+    cursor    : pointer;
+    transition: color var(--animation-duration) var(--animation-timing-function);
+    transform : scale(1.1);
+  }
