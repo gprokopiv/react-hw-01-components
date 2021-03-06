@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-hw-01-components/static/css/main.a29b8c6f.chunk.css",
+    "main.js": "/react-hw-01-components/static/js/main.f4473ec4.chunk.js",
+    "main.js.map": "/react-hw-01-components/static/js/main.f4473ec4.chunk.js.map",
+    "runtime-main.js": "/react-hw-01-components/static/js/runtime-main.136b62ea.js",
+    "runtime-main.js.map": "/react-hw-01-components/static/js/runtime-main.136b62ea.js.map",
+    "static/js/2.5a0aed32.chunk.js": "/react-hw-01-components/static/js/2.5a0aed32.chunk.js",
+    "static/js/2.5a0aed32.chunk.js.map": "/react-hw-01-components/static/js/2.5a0aed32.chunk.js.map",
+    "index.html": "/react-hw-01-components/index.html",
+    "static/css/main.a29b8c6f.chunk.css.map": "/react-hw-01-components/static/css/main.a29b8c6f.chunk.css.map",
+    "static/js/2.5a0aed32.chunk.js.LICENSE.txt": "/react-hw-01-components/static/js/2.5a0aed32.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.136b62ea.js",
+    "static/js/2.5a0aed32.chunk.js",
+    "static/css/main.a29b8c6f.chunk.css",
+    "static/js/main.f4473ec4.chunk.js"
+  ]
+}
